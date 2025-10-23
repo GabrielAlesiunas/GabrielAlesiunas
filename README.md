@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Gabriel Alesiunas 👋
 #### 👨‍💻 Técnico em Desenvolvimento de Sistemas
-#### 👨🏻‍🎓 Cursando Análise e Desenvolvimento de Sistemas 2/5 Facens Sorocaba
+#### 👨🏻‍🎓 Cursando Análise e Desenvolvimento de Sistemas 4/5 Facens Sorocaba
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/gabriel-alesiunas-228005277)
